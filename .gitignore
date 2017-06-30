@@ -1,3 +1,6 @@
 ftp.html
-/login
+/login/download
+/login/mailer
+/login/dbconfig.php
+/login/class.user.php
 
